@@ -1,4 +1,4 @@
-# 📚 Library Management System (Java - MVC)
+# 📚 Library Management System (Java - GUI)
 
 A simple and efficient **Library Management System** built using **Java** and designed with the **MVC (Model-View-Controller)** architectural pattern. This system allows users to manage books, members, and borrow/return transactions with a clean separation of concerns between logic, interface, and data.
 
@@ -33,16 +33,6 @@ A simple and efficient **Library Management System** built using **Java** and de
 - **MySQL / SQLite** (for backend database)
 
 ---
-
-## 📌 MVC Explanation
-
-- **Model** → Interacts with the database (Book, Member, Transaction)
-- **View** → Java Swing GUI forms
-- **Controller** → Handles logic between the model and view
-
----
-
-
 
 ## ❤️ Contributions
 
