@@ -4,6 +4,16 @@ A simple and efficient **Library Management System** built using **Java** and de
 
 ---
 
+## 📷 Screenshots
+
+### 🔐 Login Page
+![Login Page](./screenshots/login.jpeg)
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.jpeg)
+
+---
+
 ## 🚀 Features
 
 - Add, update, and delete books
@@ -24,17 +34,16 @@ A simple and efficient **Library Management System** built using **Java** and de
 
 ---
 
-##📌 MVC Explanation
+## 📌 MVC Explanation
 
-- Model → Interacts with the database (Book, Member, Transaction)
-
-- View → Java Swing GUI forms
-
-- Controller → Handles logic between the model and view
+- **Model** → Interacts with the database (Book, Member, Transaction)
+- **View** → Java Swing GUI forms
+- **Controller** → Handles logic between the model and view
 
 ---
 
-##❤️ Contributions
+
+
+## ❤️ Contributions
+
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
